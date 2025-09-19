@@ -1,2 +1,9 @@
-# progress-report
-a report of progress
+設定、建立環境、UHD/GNU radio安裝​
+
+USRP 對接，建立兩方通訊​
+
+室內固定點位通訊強度測試​
+
+室外環境測試​
+
+設計Tx Rx訊息包裝方式​
